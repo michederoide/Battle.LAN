@@ -1,7 +1,7 @@
 using System;
 using Gtk;
 
-namespace SP_Client
+namespace Client
 {
 	class MainClass
 	{
