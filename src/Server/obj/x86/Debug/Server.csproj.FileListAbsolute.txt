@@ -1,0 +1,6 @@
+E:\Battle.LAN\Repositories\git\src\Server\bin\Debug\Server.exe
+E:\Battle.LAN\Repositories\git\src\Server\bin\Debug\Server.pdb
+E:\Battle.LAN\Repositories\git\src\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Battle.LAN\Repositories\git\src\Server\obj\x86\Debug\Server.exe
+E:\Battle.LAN\Repositories\git\src\Server\obj\x86\Debug\Server.pdb
+E:\Battle.LAN\Repositories\git\src\Server\bin\Debug\databases\GameServer.bld

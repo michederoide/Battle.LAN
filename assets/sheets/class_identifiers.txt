@@ -1,0 +1,29 @@
+C = C
+W = 0
+A = A
+R = B
+R = B
+I = 2
+O = 8
+R = B
+=> 0xC0ABB28B for class Warrior (CWARRIOR stands for "Class WARRIOR")
+
+M = 6
+A = A
+G = 0
+E = E
+M = 6
+A = A
+G = 0
+E = E
+=> 0x6A0E6A0E for class Mage (MAGEMAGE stands for "(MAGE) MAGE")
+
+3 = 3
+C = C
+A = A
+M = 6
+A = A
+Z = 3
+O = 8
+N = 7
+=> 0x3CA6A387 for class Amazon (3CAMAZON stands for "3rd Class AMAZON")

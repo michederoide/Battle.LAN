@@ -1,0 +1,5 @@
+E:\Battle.LAN\Repositories\git\src\ClientLib\bin\Debug\ClientLib.dll
+E:\Battle.LAN\Repositories\git\src\ClientLib\bin\Debug\ClientLib.pdb
+E:\Battle.LAN\Repositories\git\src\ClientLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Battle.LAN\Repositories\git\src\ClientLib\obj\Debug\ClientLib.dll
+E:\Battle.LAN\Repositories\git\src\ClientLib\obj\Debug\ClientLib.pdb

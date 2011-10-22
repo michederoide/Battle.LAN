@@ -1,0 +1,13 @@
+E:\Battle.LAN\Repositories\git\src\Client\bin\Debug\Client.exe
+E:\Battle.LAN\Repositories\git\src\Client\bin\Debug\Client.pdb
+E:\Battle.LAN\Repositories\git\src\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Battle.LAN\Repositories\git\src\Client\obj\x86\Debug\Client.GUI.resources
+E:\Battle.LAN\Repositories\git\src\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\Battle.LAN\Repositories\git\src\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Battle.LAN\Repositories\git\src\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Battle.LAN\Repositories\git\src\Client\obj\x86\Debug\Client.exe
+E:\Battle.LAN\Repositories\git\src\Client\obj\x86\Debug\Client.pdb
+E:\Battle.LAN\Repositories\git\src\Client\obj\x86\Debug\Client.SplashScreen.resources
+E:\Battle.LAN\Repositories\git\src\Client\bin\Debug\ClientLib.dll
+E:\Battle.LAN\Repositories\git\src\Client\bin\Debug\ClientLib.pdb
+E:\Battle.LAN\Repositories\git\src\Client\obj\x86\Debug\Client.LoginForm.resources
